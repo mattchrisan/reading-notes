@@ -13,3 +13,4 @@ A growth mindset is the belief you can grow and enhance your abilities through p
 
 Hi, I'm Matt! :) I was a sales rep at Verizon for over 13 years and want a new career somewhere in the tech industry.  
 
+https://mattchrisan.github.io/reading-notes/
