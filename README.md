@@ -8,3 +8,8 @@ A growth mindset is the belief you can grow and enhance your abilities through p
 1. Stay **positive** and give it *your all*
 2. Embrace **Challenges** and push through *obstacles* in your way
 3. Learn from **critism** and be inspired by the *success of others*
+
+![Never Give Up](https://www.goalcast.com/wp-content/uploads/2017/05/Inspiring-Nelson-Mandela-quotes-I-never-lose-I-either-win-or-learn.-711x400.jpg)
+
+Hi, I'm Matt! :) I was a sales rep at Verizon for over 13 years and want a new career somewhere in the tech industry.  
+
