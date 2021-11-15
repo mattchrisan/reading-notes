@@ -24,4 +24,4 @@ You can also do neat things like add ordered and unordered lists!
 You can even link your favorite websites easily like [this] (https://www.codefellows.org)
 
 If you want to add media like pictures, no problem!  Markdown is there for you!  
-![Yoda] (https://static.wikia.nocookie.net/starwars/images/d/d6/Yoda_SWSB.png/revision/latest/scale-to-width-down/1000?cb=20150206140125)
+![Yoda] (https://observer.com/wp-content/uploads/sites/2/2020/05/yoda-art-observer.jpg?resize=1536,898)
