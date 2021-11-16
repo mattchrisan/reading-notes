@@ -6,3 +6,11 @@ Git is a type of version control system that allows you to revisit various versi
 ## How Git Works
 
 Essentially with Git you are greating a repository or file you are working on and Git allows you to go through various stages of editing these repositories either by yourself of collaborating with others.  
+
+The Git Local Repository Structure has three components: 
+
+1. Working Directory: The actual files reside here.
+2. Index: The area used for staging
+3. Head: Points to the most recent commit
+
+
