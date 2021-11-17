@@ -1,5 +1,4 @@
 Hi, I'm Matt! :) I'm a software developer student excited to learn as much as I can about coding! I like video games, sports, cars, and almost anything tech related!!!
-https://mattchrisan.github.io/reading-notes/
 
 ### Table of Contents
 - [Class 1 Reading](read01.md)
