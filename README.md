@@ -20,7 +20,16 @@ Hi, I'm Matt! :) I'm a software developer student excited to learn as much as I 
 - [Class 14 Reading](class-14.md)
 - [Class 15 Reading](class-15.md)
 
+> Quoting text
 
+Adding and image ![Coding Yoda](https://memegenerator.net/img/instances/63896804.jpg)
+
+Creating Lists
+1. Neflix
+2. Hulu
+3. Disney+
+
+# Code 102 Reading Notes
 
 ### Table of Contents
 - [Class 1 Reading](read01.md)
