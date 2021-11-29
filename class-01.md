@@ -88,7 +88,7 @@ The main components are:
 - The html "<script>" element is used to tell the browser to load the javascript file similar to the <link> element used to load a CSS file.
 - If you view the source code of the page in the browser the javascript will not have changed the html because the script works with the model of the web page that the browser has created.
 
-
+- [<===Back](README.md)
 
 
 
