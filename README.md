@@ -1,4 +1,4 @@
-Hi, I'm Matt! :) I'm a software developer student excited to learn as much as I can about coding! I like video games, sports, cars, and almost anything tech related!!!
+Hi, I'm Matt! :) I'm a software developer student excited to learn as much as I can about coding! I like video games, sports, cars, and almost anything tech related!!!  This website will have all my reading notes from the different things I learn from Code Fellows!
 
 
 # Code 201 Reading Notes
