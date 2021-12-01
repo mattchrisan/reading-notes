@@ -31,3 +31,5 @@
 * Data types - can be coerced from one type to another.
 * All values evaluate to either truthy or falsy.
 * There are 3 types of loop: **for**, **while**, and **do...while**.  Each repeats a set of staements.
+
+- [<===Back](README.md)
